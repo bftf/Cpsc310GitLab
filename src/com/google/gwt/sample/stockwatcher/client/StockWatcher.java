@@ -68,6 +68,10 @@ private VerticalPanel mainPanel = new VerticalPanel();
 	    });
 	  }
 
+  
+  //This will create a conflict
+  
+  
 	  private void loadLogin() {
 	    // Assemble login panel.
 	    signInLink.setHref(loginInfo.getLoginUrl());
