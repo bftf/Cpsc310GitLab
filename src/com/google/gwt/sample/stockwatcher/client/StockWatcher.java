@@ -69,8 +69,7 @@ private VerticalPanel mainPanel = new VerticalPanel();
 	  }
 
   
-  //This will create a conflict
-  
+public void doesNothing(){}  
   
 	  private void loadLogin() {
 	    // Assemble login panel.
